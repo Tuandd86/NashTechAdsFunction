@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureStorageConnection": "DefaultEndpointsProtocol=https;AccountName=sd0975storage;AccountKey=R8kCRuFRPxyUhI+AoaxPro2aHs2Qw79lNT2eaRsH6RwDkyk4luc83AS0dQcxdQYNmHoZnNzUXY2ukLvYHDsi1g==;EndpointSuffix=core.windows.net",
+    "AzureStorageBlobContainer": "images",
+    "QueueName": "ads-queue",
+    "DbConnection": "Server=tcp:sd0975db.database.windows.net,1433;Initial Catalog=sd0975NashAd;Persist Security Info=False;User ID=sd0975;Password=Harveynash@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
